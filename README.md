@@ -146,7 +146,7 @@ Once you've watched the bot work in paper trading for at least 30 days and you t
 
 - **Subscriber Library:** [kingdomedgealgo.com/library/](https://kingdomedgealgo.com/library/) — full onboarding walkthrough including this bot
 - **AI Chatbot:** bottom-right of every page on [kingdomedgealgo.com](https://kingdomedgealgo.com) — answers most "how do I" questions instantly
-- **Discord:** Join the community at [discord.gg/tgaxH5dt](https://discord.gg/tgaxH5dt) — `#ultimate-help` channel for self-hosted bot questions
+- **Discord:** Join the community at [discord.gg/en738ANNnj](https://discord.gg/en738ANNnj) — `#ultimate-help` channel for self-hosted bot questions
 - **Email:** [support@kingdomedgealgo.com](mailto:support@kingdomedgealgo.com) for billing or anything the chatbot can't answer
 
 **What KingdomEdge supports vs. what's yours:**
