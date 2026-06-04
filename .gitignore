@@ -1,0 +1,39 @@
+# Secrets — NEVER commit
+.env
+.env.local
+.env.production
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+trading_bot.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# Railway / deploy artifacts
+.railway/
