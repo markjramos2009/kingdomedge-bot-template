@@ -1,6 +1,6 @@
 # KingdomEdge Algo — Self-Hosted Bot Template
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/markjramos2009/kingdomedge-bot-template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/kingdomedge-bot-template)
 
 **The deployable scaffold for KingdomEdge Algo Ultimate-tier subscribers.** Fork this repo, deploy to your own Railway account (~$5/mo), fill in your env vars, and the bot runs in your name with your broker keys. **KingdomEdge never sees your keys.**
 
